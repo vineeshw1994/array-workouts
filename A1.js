@@ -9,3 +9,12 @@ const target = 8
 for(let i = 0; i<array.length; i++;){
   console.log(array[i])
 }
+
+
+console.log('vineesh ')
+
+
+const name ='vineesh'
+for(let i=0;i<name.length;i++){
+console.log("name[i]")
+}
